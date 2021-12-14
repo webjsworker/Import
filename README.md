@@ -1,3 +1,5 @@
 
 
-![alt text](https://ktonanovenkogo.ru/voprosy-i-otvety/priroda-chto-ehto-takoe.html)
+<p>
+<img align="center"  src="main.JPG">
+</p>
