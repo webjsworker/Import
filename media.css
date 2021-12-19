@@ -1,0 +1,13 @@
+
+body{
+    color: rgb(38, 0, 255);
+}
+
+
+@media screen and (max-width: 1024px) {
+	body{
+        color: red
+    }
+}
+
+

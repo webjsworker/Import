@@ -1,0 +1,22 @@
+ 
+
+ body{
+    font-size: 50px;
+    color: greenyellow
+}
+/* импорт не применяется  */
+
+@import url("./media.css");
+
+
+
+/*
+Если запрос указать в файле то он работает
+@media (max-width: 1024px) {
+	body{
+        color: red
+    }
+} */
+
+
+
